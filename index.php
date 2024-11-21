@@ -95,7 +95,7 @@ if ($_SERVER["REQUEST_METHOD"] !== "POST") {
                                 <input type="password" name="Password" class="form-control" placeholder="Enter your password" required>
                             </div>
 
-                            <a href="">Don't Have an Account</a>
+                            <a href="registerEmail.php">Don't Have an Account</a>
 
                             <div class="button-form">
                                 <button type="submit">Sign In</button>

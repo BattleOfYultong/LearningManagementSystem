@@ -34,7 +34,7 @@
     <section>
         <div class="left-side">
                <div class="svg-container">
-                    <img src="svg/learning-animate.svg" alt="">
+                    <img src="svg/filing-system-animate.svg" alt="">
                </div>
         </div>
         <div class="right-side">

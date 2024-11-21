@@ -98,7 +98,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
     <section>
         <div class="left-side">
                <div class="svg-container">
-                    <img src="svg/learning-animate.svg" alt="">
+                    <img src="svg/profile-pic-animate.svg" alt="">
                </div>
         </div>
         <div class="right-side">

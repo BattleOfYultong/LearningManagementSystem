@@ -77,3 +77,22 @@ form{
 form a{
     color: #fff;
 }
+form .image-container{
+    width: 100%;
+   margin-top: 20px;
+   margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height  : 150px;
+    padding: 10px;
+   
+    
+   
+}
+form .image-container img{
+    width: 50%;
+    height: 50%;
+    border: 2px solid #fff;
+    padding: 10px;
+}

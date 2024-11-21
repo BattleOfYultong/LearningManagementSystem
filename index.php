@@ -35,12 +35,12 @@
                                 <input type="password" class="form-control" placeholder="Enter your password" required>
                             </div>
 
-                            <a href="registerEmail.php">Don't Have an Account</a>
+                            <a href="">Don't Have an Account</a>
 
                             <div class="button-form">
                                 <button>Sign In</button>
                             </div>
-</form>
+                    </form>
         </div>
     
     </section>
